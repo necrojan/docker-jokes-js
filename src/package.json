@@ -1,0 +1,10 @@
+{
+  "name": "docker-jokes",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "jandev",
+  "dependencies": {
+    "axios": "0.22.0",
+    "restify": "8.6.0"
+  }
+}
